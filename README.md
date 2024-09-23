@@ -12,4 +12,6 @@
 - 💬 会炼丹，深度学习
 - 📫 会开发高性能分布式api接口
 - 😄 热衷无服务开发模式 函数计算 云函数
-- ⚡ 最近在编写pyefun易函数
+- ⚡ 最近在编写GoEasyDesign和易函数
+
+我的博客 https://my.rongyiapi.com/
